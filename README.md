@@ -6,7 +6,7 @@ A lightful image lazyload plugin for Vue. Vue的轻量级滚动懒加载插件
 - 为想变成懒加载的img标签添加'v-lazy-src'而不是'src'
 # Install
 ```
-npm install vue-lazy-immgs
+npm install vue-lazy-imgs
 ```
 # Usage
 ```javascript

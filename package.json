@@ -1,6 +1,6 @@
 {
   "name": "vue-lazy-imgs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a lightful lazyload plugin for Vue",
   "main": "index.js",
   "scripts": {

@@ -1,0 +1,24 @@
+{
+  "name": "vue-img-lazyload",
+  "version": "1.0.0",
+  "description": "a lightful lazyload plugin for Vue",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "image",
+    "lazyload"
+  ],
+  "author": "beta_su",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetaSu/vue-image-lazyload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BetaSu/vue-image-lazyload/issues"
+  },
+  "homepage": "https://github.com/BetaSu/vue-image-lazyload#readme"
+}
